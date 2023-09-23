@@ -1,0 +1,6 @@
+<resources>
+    <!-- Other string definitions -->
+    <string name="app_name">Dalima</string>
+    <string name="channel_name">LoL</string>
+    <string name="channel_description">Lmao</string>
+</resources>
